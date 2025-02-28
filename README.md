@@ -11,3 +11,7 @@ The important file for you is the
 
 screening_inspection.ipynb
 
+The json files, if you need them, I will put them in the google drive for the environmenta justice review. If it is optional, you can do it manually without json files. I did this way not to expose my data in the github repository. 
+
+
+Cheers!
